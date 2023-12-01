@@ -7,6 +7,8 @@
 --	                    /____/                                         /_/            	--
 --								by TAW Lurchian, Aug 2022								--
 ------------------------------------------------------------------------------------------
+-- manual available at https://docs.google.com/document/d/1PqJfthutkZRb_VmZqNQmYOXbZeVI4UdVwyLHppIUpL0/edit?usp=sharing
+
 eGMs = {}
 
 
